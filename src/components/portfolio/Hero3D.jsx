@@ -50,7 +50,7 @@ export default function Hero3D() {
           transition={{ duration: 1, delay: 0.5 }}
         >
           <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-white via-blue-200 to-blue-400 bg-clip-text text-transparent animate-gradient">
-            Herb Segis
+            HeRb SeGis
           </h1>
           <p className="text-xl md:text-2xl text-slate-300 mb-8 font-light">
             Creative Developer & Digital Innovator
