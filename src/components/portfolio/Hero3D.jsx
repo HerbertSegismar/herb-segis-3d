@@ -68,7 +68,7 @@ export default function Hero3D() {
           className="flex justify-center space-x-6 mb-16"
         >
           <a
-            href="https://github.com/herbsegis"
+            href="https://github.com/herbertsegismar"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 bg-white/10 backdrop-blur-sm rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110 animate-float"
@@ -76,7 +76,7 @@ export default function Hero3D() {
             <Github className="w-6 h-6" />
           </a>
           <a
-            href="https://linkedin.com/in/herbsegis"
+            href="https://www.linkedin.com/in/herbert-segismar-300827373/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 bg-white/10 backdrop-blur-sm rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110 animate-float"
@@ -85,7 +85,7 @@ export default function Hero3D() {
             <Linkedin className="w-6 h-6" />
           </a>
           <a
-            href="mailto:herb@example.com"
+            href="mailto:herbert.segismar@gmail.com"
             className="p-3 bg-white/10 backdrop-blur-sm rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110 animate-float"
             style={{ animationDelay: "1s" }}
           >
