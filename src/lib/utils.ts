@@ -4,3 +4,9 @@ import { twMerge } from "tailwind-merge"
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
+
+// ...existing code...
+
+export function createPageUrl(pageName: string) {
+  return `/${pageName}`;
+}
